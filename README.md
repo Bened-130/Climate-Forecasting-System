@@ -1,20 +1,20 @@
-🌤️ Climate Forecasting System
+Climate Forecasting System
 
 An advanced, production-ready climate forecasting system that provides accurate weather predictions, comprehensive risk assessments, and early warning alerts using machine learning.
 
-✨ Key Features
+Key Features
 Feature	Description	Benefit
-📊 Multi-Model Forecasting	Uses Facebook's Prophet for temperature and rainfall predictions. Accurate 30-day forecasts with 85-95% accuracy
+ Multi-Model Forecasting	Uses Facebook's Prophet for temperature and rainfall predictions. Accurate 30-day forecasts with 85-95% accuracy
 
-⚠️ Risk Assessment	Evaluates drought, flood, and extreme heat risks with severity levels. Proactive risk management and planning
+ Risk Assessment	evaluates drought, flood, and extreme heat risks with severity levels. Proactive risk management and planning
 
-🚨 Early Warning System: Automated alerts for extreme weather conditions, Timely warnings for disaster preparedness
+ Early Warning System: Automated alerts for extreme weather conditions, Timely warnings for disaster preparedness
 
-💰 Financial Impact Analysis: Estimates economic consequences of climate events. Data-driven decision making for resource allocation
+ Financial Impact Analysis: Estimates economic consequences of climate events. Data-driven decision making for resource allocation
 
-🎯 Modular Architecture: Clean separation of concerns with reusable components	Easy maintenance, and extensibility
+Modular Architecture: Clean separation of concerns with reusable components	Easy maintenance, and extensibility
 
-⚡ High Efficiency	Reduces forecasting time from 8 hours to 15 minutes (97% reduction). 	Significant time and cost savings
+High Efficiency	reduces forecasting time from 8 hours to 15 minutes (97% reduction). 	Significant time and cost savings
 
 # Data Generation Settings
 DATA_SETTINGS = {
@@ -54,7 +54,7 @@ ALERT_THRESHOLDS = {
 }
 
 
-📊 Output Files
+ Output Files
 The system generates the following outputs in results/run_YYYYMMDD_HHMMSS/:
 
 File	Content	Format
